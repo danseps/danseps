@@ -1,4 +1,8 @@
 ## Hi there 👋
+Welcome to my GitHub profile
+
+### About me
+My name is Daniel Šeps and I mainly code in C and Java. Studying at FIM UHK in the Czech Republic.
 
 <!--
 **danseps/danseps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
